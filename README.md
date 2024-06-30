@@ -1,3 +1,6 @@
+
+![Screenshot 2024-06-30 193301](https://github.com/Hackergy-X/StoryTeller-AI/assets/67467495/0fae236e-61a2-4903-aa6b-ae26954fab30)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
